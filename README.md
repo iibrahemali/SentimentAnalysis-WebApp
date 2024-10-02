@@ -12,8 +12,7 @@ The model and TfidfVectorizer were saved after training, and the web app allows 
 - **Custom Model**: The machine learning model was trained using an open dataset and saved for use in this application.
 
 ## How to Run the Project :
-**Make sure the following libraries are installed:**
-- Python 3.x
+- Python
 - Flask
 - NLTK
 - Scikit-learn
@@ -27,7 +26,7 @@ You can install the necessary libraries by running:
 Install the dependencies: Ensure all required libraries are installed by running:
 - `pip install -r requirements.txt`
 - Run the Flask app: Start the app with the following command: `python app.py`
-- Access the web app: Open your browser and go to `http://127.0.0.1:5000/`. Input text and analyze its sentiment in real time.
+- Access the web app: Open your browser and go to `http://127.0.0.1:5000/`.
 
 ## Model Details :
 The model was trained using a **Logistic Regression algorithm** for sentiment classification, with text data processed using **TfidfVectorizer**.
