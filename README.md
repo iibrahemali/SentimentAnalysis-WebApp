@@ -1,9 +1,7 @@
 # Sentiment Analysis Web App using Flask
 
 ## Overview :
-This project is a sentiment analysis web application built using Flask and a custom-trained machine learning model. 
-The model was trained on an open dataset for Natural Language Processing (NLP) and is used to classify text as either positive or negative.
-The model and TfidfVectorizer were saved after training, and the web app allows users to input text and receive real-time sentiment predictions based on the trained model.
+This project is a sentiment analysis web application built using Flask and a custom-trained machine learning model. The model was trained on an open dataset for Natural Language Processing (NLP) and is used to classify text as either positive or negative. The model and TfidfVectorizer were saved after training, and the web app allows users to input text and receive real-time sentiment predictions based on the trained model.
 
 ## Features :
 - **NLP Application**: This is a Natural Language Processing (NLP) application for analyzing text sentiment.
